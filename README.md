@@ -24,4 +24,4 @@ Similar Genre – This algorithm will recommend content based on the mostpopular
                  watched by this user. If no such content exists, it will try with the second most popular tag, and so on.(3-letter code–gen)
 
 
-The 
+The available actions are described the assignment specifications, section 3.4 in page 6. 
